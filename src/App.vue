@@ -1,0 +1,14 @@
+<script setup>
+import Login from './components/Login.vue';
+
+</script>
+
+<template>
+  <main>
+    <Login msg="Login page" />
+  </main>
+</template>
+
+<style scoped>
+
+</style>
